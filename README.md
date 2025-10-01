@@ -26,7 +26,7 @@ source setup.sh
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-./tests/run.sh
+./tests/run.sh 
 ```
 
 # Configuración en Windows
